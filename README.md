@@ -68,4 +68,4 @@ Bright Data 代理遵循严格的道德准则，所有代理均符合 GDPR 和 C
 我们提供 24/7 全天候支持。欢迎随时联系我们，讨论您的需求并充分利用我们的 LinkedIn 代理网络。
 
 想采集 LinkedIn 数据？
-欢迎了解 Bright Data 的 [**LinkedIn Scraper**](https://www.bright.cn/products/web-scraper/linkedin)。
+欢迎了解 Bright Data 的 [**LinkedIn 爬虫工具**](https://www.bright.cn/products/web-scraper/linkedin)。
